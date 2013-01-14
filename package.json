@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "nw_test_loop_without_handle",
   "version": "0.0.1",
   "main": "./index.js",
   "scripts" : {
